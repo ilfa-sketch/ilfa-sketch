@@ -27,13 +27,6 @@
 
 <!-- TECH STACK FARUQ -->
 <h3 align="center">🔥 Tech Stack</h3>
-<style>
-  .tech-badge:hover {
-    transform: scale(1.1);
-    transition: all 0.3s ease;
-  }
-</style>
-
 <div align="center">
   <img class="tech-badge" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img class="tech-badge" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
