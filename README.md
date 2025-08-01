@@ -21,7 +21,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilfa-sketch&layout=compact&theme=dark" />
 </p>
 
-[Snake Game](https://raw.githubusercontent.com/ilfa-sketch/ilfa-sketch/main/snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ilfa-sketch/ilfa-sketch/main/assets/pacman-ilfa.svg" width="500">
+</p>
 
 <!-- TECH STACK FARUQ -->
 <h3 align="center">🔥 Tech Stack</h3>
