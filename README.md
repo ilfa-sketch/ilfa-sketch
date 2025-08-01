@@ -7,7 +7,7 @@
 
 <!-- GIF SPESIAL UNTUK FARUQ -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZ1b2J6M3l4c3Z4cGk2emRjYzY4dWx6eWZ2d2s4d2x4eWlzZ3VieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26n6xBpxNXExDfuKc/giphy.gif" width="250">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyajRoamxkYnp2amp5ZHowbjBid3I3Y3FidjV0NnkwenU1cDlsZHRlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" width="250">
 </p>
 
 <!-- QUOTE -->
