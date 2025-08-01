@@ -26,16 +26,6 @@
 </p>
 
 <!-- TECH STACK FARUQ -->
-<h3 align="center">🔥 Tech Stack</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/ACode-FF6600?style=for-the-badge&logo=android&logoColor=white" alt="ACode" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
 
 <!-- FOOTER -->
 <p align="center">
@@ -45,7 +35,7 @@
 <!--
 **ilfa-sketch/ilfa-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are sosome eas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
