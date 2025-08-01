@@ -1,0 +1,23 @@
+<svg width="500" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- PACMAN -->
+  <circle cx="50" cy="50" r="20" fill="#FF0">
+    <animate attributeName="r" values="20;22;20" dur="0.5s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M50,50 L70,35 A20,20 0 0,0 70,65 Z" fill="#000">
+    <animateTransform attributeName="transform" type="rotate" from="0 50 50" to="-45 50 50" dur="0.3s" repeatCount="indefinite"/>
+  </path>
+  
+  <!-- GHOST WITH "ILFA" TEXT -->
+  <path d="M120,30 Q140,20 160,30 Q180,50 160,70 Q140,80 120,70 Q100,50 120,30" fill="#F00">
+    <animate attributeName="fill" values="#F00;#F88;#F00" dur="2s" repeatCount="indefinite"/>
+  </path>
+  <text x="140" y="55" fill="#FFF" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold">
+    ILFA
+    <animate attributeName="opacity" values="1;0.7;1" dur="1s" repeatCount="indefinite"/>
+  </text>
+  
+  <!-- DOT LINE ANIMATION -->
+  <circle cx="200" cy="50" r="5" fill="#FFF">
+    <animate attributeName="cx" values="200;220;240;260;280;300" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>
