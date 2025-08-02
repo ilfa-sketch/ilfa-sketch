@@ -7,7 +7,7 @@
 
 <!-- GIF SPESIAL UNTUK FARUQ -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyajRoamxkYnp2amp5ZHowbjBid3I3Y3FidjV0NnkwenU1cDlsZHRlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" width="250">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyajRoamxkYnp2amp5ZHowbjBid3I3Y3FidjV0NnkwenU1cDlsZHRlaSZlcD12MV9pbnRlcm5hbF9naifYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" width="250">
 </p>
 
 <!-- QUOTE (DENGAN TYPO DIPERBAIKI) -->
@@ -15,14 +15,11 @@
   <i>“أَحَبُّ الْأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ<Br>"Amal (kebaikan) yang paling dicintai Allah adalah yang kontinu meski sedikit.” (HR Muslim)”</i> - Nabi Muhammad ﷺ
 </p>
 
-<!-- STATS DENGAN BORDER RADIUS & LAYOUT LEBIH RAPI -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilfa-sketch&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&border_radius=10&show_icons=true" />
-  <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ilfa-sketch&theme=rose_pine&hide_border=false&border_radius=10" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilfa-sketch&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact&border_radius=10" />
-</div>
+<!-- STATS ALTERNATIF KARENA API UTAMA ERROR -->
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://bad-apple-github-readme.vercel.app/api?username=ilfa-sketch&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rastong22@gmail.com) 
@@ -33,12 +30,13 @@
   <img src="https://skillicons.dev/icons?i=python,js,html,css,sqlite,mysql,github,vscode" />
 </div>
 
-<!-- FEATURED PROJECTS DENGAN REPO YANG DIPERBAIKI -->
+<!-- FEATURED PROJECTS DENGAN ALTERNATIF KARENA API ERROR -->
 <h3 align="center">🚀 Featured Projects</h3>
 <div align="center">
   <a href="https://github.com/ilfa-sketch/tembak-tembak">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilfa-sketch&repo=tembak-tembak&theme=rose_pine" alt="tembak-tembak" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilfa-sketch&theme=monokai" alt="tembak-tembak" width="400" />
   </a>
+  <h4>tembak-tembak Game</h4>
   <p>
     <strong>Demo:</strong> 
     <a href="https://ilfa-sketch.github.io/tembak-tembak/index.html">Play Game</a>
@@ -46,7 +44,9 @@
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ilfa-sketch&theme=nightowl&no-frame=true&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ilfa-sketch&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+</div>
 
 <!-- FOOTER DENGAN PENYESUAIAN MOBILE -->
 <p align="center">
