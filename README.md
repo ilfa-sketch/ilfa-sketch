@@ -12,7 +12,7 @@
 
 <!-- QUOTE -->
 <p align="center">
-  <i>“أَحَبَُ الْأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ “Amal (kebaikan) yang paling dicintai Allah adalah yang kontinu meski sedikit.” (HR Muslim)”</i> -Nabi Muhammad ﷺ
+  <i>أَحَبَُ الْأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ<br>"Amal (kebaikan) yang paling dicintai Allah adalah yang kontinu meski sedikit.” (HR Muslim)”</i> - Nabi Muhammadﷺ
 </p>
 
 <!-- STATS & SNAKE GAME -->
@@ -22,15 +22,21 @@
 
 <!-- TECH STACK FARUQ -->
 <h3 align="center">🔥 Tech Stack</h3>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <div align="center">
-<img class="tech-badge" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /><img class="tech-badge" src="https://img.shields.io/badge/ACode-FF6600?style=for-the-badge&logo=android&logoColor=white" alt="ACode" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/ACode-FF6600?style=for-the-badge&logo=android&logoColor=white" alt="ACode" />
 </div>
-</p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ilfa-sketch&theme=nightowl&no-frame=true&no-bg=true&margin-w=4)
 <!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00cc99,100:6600cc&height=120&section=footer&desc=KEEP%20CODING,%20STAY%20AWESOME%20%F0%9F%9A%80&fontColor=ffffff&fontSize=24&fontWeight=bold" />
 </p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ilfa-sketch&theme=nightowl&no-frame=true&no-bg=true&margin-w=4)
