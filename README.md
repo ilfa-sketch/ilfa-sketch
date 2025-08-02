@@ -25,7 +25,22 @@
 </div>
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rastong22@gmail.com) 
+<div align="center">
+  <!-- WhatsApp -->
+  <a href="https://wa.me/6289528204438">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  
+  <!-- Email -->
+  <a href="mailto:rastong22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/profile.php?id=61578997860767">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</div>
 
 <!-- TECH STACK MODERN DENGAN SKILL ICONS -->
 <h3 align="center">🔥 Tech Stack</h3>
