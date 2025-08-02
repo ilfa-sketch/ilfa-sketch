@@ -37,8 +37,7 @@
 <h3 align="center">🚀 Featured Projects</h3>
 <div align="center">
   <!-- TAMBAHKAN REPO TERBAIKMU DI SINI -->
-  [![tembak-tembak](https://github-readme-stats.vercel.app/api/pin/?username=ilfa-sketch&repo=tembak-tembak&theme=rose_pine)](https://github.com/ilfa-sketch/nama-repo)
-</div>
+  [![tembak-tembak](https://github-readme-stats.vercel.app/api/pin/?username=ilfa-sketch&repo=tembaktembak&theme=rose_pine)](https://github.com/ilfa-sketch/tembaktembak)</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ilfa-sketch&theme=nightowl&no-frame=true&no-bg=true&margin-w=4)
