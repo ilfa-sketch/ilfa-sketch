@@ -54,10 +54,6 @@
   <a href="https://github.com/ilfa-sketch/tembak-tembak">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilfa-sketch&repo=tembak-tembak&theme=rose_pine" alt="tembak-tembak" />
   </a>
-  <p>
-    <strong>Demo:</strong> 
-    <a href="https://ilfa-sketch.github.io/tembak-tembak/index.html">Play Game</a>
-  </p>
 </div>
 
 ## 🏆 GitHub Trophies
