@@ -36,7 +36,13 @@
 <!-- FEATURED PROJECTS YANG DIPERBAIKI -->
 <h3 align="center">🚀 Featured Projects</h3>
 <div align="center">
-  [![tembak-tembak](https://github-readme-stats.vercel.app/api/pin/?username=ilfa-sketch&repo=tembaktembak&theme=rose_pine)](https://github.com/ilfa-sketch/tembaktembak)
+  <a href="https://github.com/ilfa-sketch/tembaktembak">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilfa-sketch&repo=tembaktembak&theme=rose_pine" alt="tembak-tembak" />
+  </a>
+  <p>
+    <strong>Demo:</strong> 
+    <a href="https://ilfa-sketch.github.io/tembak-tembak">https://ilfa-sketch.github.io/tembak-tembak/</a>
+  </p>
 </div>
 
 ## 🏆 GitHub Trophies
@@ -44,5 +50,4 @@
 
 <!-- FOOTER DENGAN PENYESUAIAN MOBILE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00cc99,100:6600cc&height=150&section=footer&desc=KEEP%20CODING,%20STAY%20AWESOME%20%F0%9F%9A%80&fontColor=ffffff&fontSize=22&fontWeight=bold" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00cc99,100:6600cc&height=150&section=footer&desc=KEEP%20CODING,%20STAY%20AWESOME%20%F0%9F%9A%80&fontColor=ffffff&fontSize=22&fontWeight=tembak-tembak
