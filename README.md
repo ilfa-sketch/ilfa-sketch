@@ -1,59 +1,36 @@
-<style>
-  .responsive-element {
-    max-width: 100%;
-    display: block;
-    margin: 0 auto;
-  }
-  @media (max-width: 768px) {
-    .responsive-element {
-      max-width: 90%;
-    }
-    .mobile-center {
-      text-align: center;
-    }
-    .mobile-stack {
-      display: block !important;
-    }
-    .mobile-stack a {
-      margin: 5px 0;
-      display: block;
-    }
-  }
-</style>
-
 <!-- HEADER ANIMASI "FARUQ" -->
 <p align="center">
   <a href="https://github.com/ilfa-sketch">
     <img src="https://raw.githubusercontent.com/ilfa-sketch/File-file-gambar-gratis-/main/20250802_150104.jpg" 
-         class="responsive-element" style="height: auto;" />
+         style="max-width: 100%; height: auto;" />
   </a>
 </p>
 
 <!-- GIF SPESIAL UNTUK FARUQ -->
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyajRoamxkYnp2amp5ZHowbjBid3I3Y3FidjV0NnkwenU1cDlsZHRlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" 
-       class="responsive-element" style="max-width: 250px; height: auto;" />
+       style="max-width: 250px; width: 100%; height: auto;" />
 </p>
 
 <!-- QUOTE (DENGAN TYPO DIPERBAIKI) -->
-<p align="center" class="mobile-center">
+<p align="center">
   <i>“أَحَبُّ الْأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ<Br>"Amal (kebaikan) yang paling dicintai Allah adalah yang kontinu meski sedikit.” (HR Muslim)”</i> - Nabi Muhammad ﷺ
 </p>
 
 <!-- STATS DENGAN BORDER RADIUS & LAYOUT LEBIH RAPI -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ilfa-sketch&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&border_radius=10&show_icons=true" 
-       class="responsive-element" />
+       style="max-width: 100%;" />
   <br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=ilfa-sketch&theme=rose_pine&hide_border=false&border_radius=10" 
-       class="responsive-element" />
+       style="max-width: 100%;" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilfa-sketch&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact&border_radius=10" 
-       class="responsive-element" />
+       style="max-width: 100%;" />
 </div>
 
 <h3 align="center">👥 Connect with me</h3>
-<div align="center" class="mobile-stack">
+<div align="center">
   <!-- WhatsApp -->
   <a href="https://wa.me/6289528204438">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
@@ -80,7 +57,7 @@
 <!-- FEATURED PROJECTS DENGAN REPO YANG DIPERBAIKI -->
 <h3 align="center">🚀 Featured Projects</h3>
 <div align="center">
-  <a href="https://github.com/ilfa-sketch/tembak-tembak" class="responsive-element">
+  <a href="https://github.com/ilfa-sketch/tembak-tembak">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilfa-sketch&repo=tembak-tembak&theme=rose_pine" 
          alt="tembak-tembak" style="max-width: 100%;" />
   </a>
@@ -89,11 +66,11 @@
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ilfa-sketch&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" 
-       class="responsive-element" />
+       style="max-width: 100%;" />
 </div>
 
 <!-- FOOTER DENGAN PENYESUAIAN MOBILE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00cc99,100:6600cc&height=150&section=footer&desc=KEEP%20CODING,%20STAY%20AWESOME%20%F0%9F%9A%80&fontColor=ffffff&fontSize=22&fontWeight=bold" 
-       class="responsive-element" />
+       style="max-width: 100%;" />
 </p>
