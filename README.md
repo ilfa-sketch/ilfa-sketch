@@ -12,7 +12,7 @@
 
 <!-- QUOTE (DENGAN TYPO DIPERBAIKI) -->
 <p align="center">
-  <i>“أَحَبُّ الْأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ<br>"Amal (kebaikan) yang paling dicintai Allah adalah yang kontinu meski sedikit.” (HR Muslim)”</i> - Nabi Muhammad ﷺ
+  <i>“أَحَبُّ الْأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ<Br>"Amal (kebaikan) yang paling dicintai Allah adalah yang kontinu meski sedikit.” (HR Muslim)”</i> - Nabi Muhammad ﷺ
 </p>
 
 <!-- STATS DENGAN BORDER RADIUS & LAYOUT LEBIH RAPI -->
@@ -33,11 +33,11 @@
   <img src="https://skillicons.dev/icons?i=python,js,html,css,sqlite,mysql,github,vscode" />
 </div>
 
-<!-- FEATURED PROJECTS -->
+<!-- FEATURED PROJECTS YANG DIPERBAIKI -->
 <h3 align="center">🚀 Featured Projects</h3>
 <div align="center">
-  <!-- TAMBAHKAN REPO TERBAIKMU DI SINI -->
-  [![tembak-tembak](https://github-readme-stats.vercel.app/api/pin/?username=ilfa-sketch&repo=tembaktembak&theme=rose_pine)](https://github.com/ilfa-sketch/tembaktembak)</div>
+  [![tembak-tembak](https://github-readme-stats.vercel.app/api/pin/?username=ilfa-sketch&repo=tembaktembak&theme=rose_pine)](https://github.com/ilfa-sketch/tembaktembak)
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ilfa-sketch&theme=nightowl&no-frame=true&no-bg=true&margin-w=4)
